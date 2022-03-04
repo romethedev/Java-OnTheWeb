@@ -1,11 +1,19 @@
 Technologies:
+
 Java
+
 Spring Tool Suite
+
 MySQL
+
 Spring Boot
+
 Spring Data-JPA
+
 Spring Security
+
 Spring MVC
+
 JSP
 
 Skills:
